@@ -5,6 +5,7 @@ http://localhost:9000/healthcheck/post?type=avro|json
 
 ## Topic to be created
 json-topic
+
 avro-topic
 
 ## Avro schema Used:
